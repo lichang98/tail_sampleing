@@ -1,0 +1,9 @@
+backend/.idea/
+backend/target/
+backend/*.iml
+middle1/.idea/
+middle1/target/
+middle1/*.iml
+middle2/.idea/
+middle2/target/
+middle2/*.iml
